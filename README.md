@@ -4,4 +4,4 @@
 
 
 ### Swagger documentation
-![](home_page_mvc.gif)
+![](swagger.gif)
