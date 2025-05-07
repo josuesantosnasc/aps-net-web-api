@@ -1,7 +1,7 @@
-﻿#  ASP.NET 9 MVC
+﻿#  ASP.NET 9 with Swagger
 
-## A project to practice CRUD operations using ASP.NET Core 9 MVC
+## A project to practice documenting APIs with Swagger using ASP.NET Core 9 controllers
 
 
-### Home Page
+### Swagger documentation
 ![](home_page_mvc.gif)
